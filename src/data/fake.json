@@ -1,0 +1,74 @@
+[
+    {
+        "name": "name1",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "gitlab-registry.cern.ch/alintulu/cmssw-docker-ci/cmssw:CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "name2",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url2",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "CMSSW_10_6_8_patch1-2020-02-19-df153472",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    },
+    {
+        "name": "name1",
+        "cmssw": "CMSSW_5_3_13_cand1",
+        "scram_arch": "slc5_amd64_gcc462",
+        "status": "done",
+        "url": "fake-url",
+        "createdAt": "2020-09-09"
+    }
+]

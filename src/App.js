@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import { Route, Switch } from 'react-router-dom';
 import './App.css';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import DashboardContainer from './container/DashboardContainer'
+import RequestImageContainer from './container/RequestImageContainer'
+import AvailableImageContainer from './container/AvailableImageContainer'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <Header/>
+        <div className="Content">
+          <Switch>
+            <Route exact path="/" component={DashboardContainer}/>
+            <Route exact path="/request-an-image" component={RequestImageContainer}/>
+            <Route exact path="/available-images" component={AvailableImageContainer}/>
+          </Switch>
+        </div>
+        <Footer/>
+      </div>
+    );
+  }
 }
 
 export default App;

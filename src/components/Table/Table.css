@@ -1,0 +1,46 @@
+table {
+  border-spacing: 0;
+  border: 1px solid #ededed;
+}
+table tr:last-child td {
+  border-bottom: 0;
+}
+table td {
+  margin: 0;
+  padding: 3rem;
+  padding-bottom:7.5px;
+  padding-top: 8px;
+  border-bottom: 1px solid #ededed;
+  border-right: 1px solid #ededed;
+  position: relative;
+}
+
+table td:last-child {
+  border-right: 0;
+}
+table tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+table th {
+  padding: 30px;
+  background-color: #fafafa;
+  font-size: 17px;
+}
+
+.badge {
+  background-color: #9ae6b4;
+  color: #22543d;
+  margin-right: 4px;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.search {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+}
