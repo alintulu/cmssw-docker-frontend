@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cmssw-docker-frontend/precache-manifest.9068749d02f757f89233c13554014a3d.js"
+  "/cmssw-docker-frontend/precache-manifest.59a8bc786611b21a25bd615ad6a15ffb.js"
 );
 
 self.addEventListener('message', (event) => {
