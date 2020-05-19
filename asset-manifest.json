@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cmssw-docker-frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cmssw-docker-frontend/static/js/main.e3061fc8.chunk.js",
+    "main.js.map": "/cmssw-docker-frontend/static/js/main.e3061fc8.chunk.js.map",
+    "runtime-main.js": "/cmssw-docker-frontend/static/js/runtime-main.f8ef7bc9.js",
+    "runtime-main.js.map": "/cmssw-docker-frontend/static/js/runtime-main.f8ef7bc9.js.map",
+    "static/js/2.87609391.chunk.js": "/cmssw-docker-frontend/static/js/2.87609391.chunk.js",
+    "static/js/2.87609391.chunk.js.map": "/cmssw-docker-frontend/static/js/2.87609391.chunk.js.map",
+    "index.html": "/cmssw-docker-frontend/index.html",
+    "precache-manifest.9068749d02f757f89233c13554014a3d.js": "/cmssw-docker-frontend/precache-manifest.9068749d02f757f89233c13554014a3d.js",
+    "service-worker.js": "/cmssw-docker-frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cmssw-docker-frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.87609391.chunk.js.LICENSE.txt": "/cmssw-docker-frontend/static/js/2.87609391.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cmssw-docker-frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8ef7bc9.js",
+    "static/js/2.87609391.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e3061fc8.chunk.js"
+  ]
+}
